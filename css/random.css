@@ -1,0 +1,16 @@
+body {
+  background: url(../images/trump.jpg);
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+
+.hidden {
+  display: none;
+}
+
+.show {
+  display: block;
+  margin: 0 auto;
+}
